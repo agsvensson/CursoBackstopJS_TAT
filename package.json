@@ -1,7 +1,7 @@
 {
   "name": "curso-backstopjs-tat",
   "version": "1.0.0",
-  "description": "Projeto para o curso de BackstopJS da Escola TAT",
+  "description": "Curso de BackstopJS da Escola TAT",
   "main": "index.js",
   "scripts": {
     "test": "backstop test",
