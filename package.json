@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wlsf82/curso-backstopjs-tat.git"
+    "url": "git+https://github.com/agsvensson/CursoBackstopJS_TAT.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wlsf82/curso-backstopjs-tat/issues"
+    "url": "https://github.com/agsvensson/CursoBackstopJS_TAT/issues"
   },
-  "homepage": "https://github.com/wlsf82/curso-backstopjs-tat#readme",
+  "homepage": "https://github.com/agsvensson/CursoBackstopJS_TAT#readme",
   "devDependencies": {
     "backstopjs": "^5.4.4"
   }
