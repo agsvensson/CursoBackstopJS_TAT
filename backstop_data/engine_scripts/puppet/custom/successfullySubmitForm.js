@@ -1,7 +1,6 @@
+const fillMandatoryFields = require("./fillAllMandatoryFields");
+
 module.exports = async page => {
-    await page.type("#first-name", "Arthur");
-    await page.type("#last-name", "Svensson");
-    await page.type("#email", "arthur-svensson@example.com");
-    await page.click("#agree");
+    await fillMandatoryFields(page);
     await page.click("button[type=\"submit\"]");
 }
